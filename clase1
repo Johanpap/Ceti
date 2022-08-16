@@ -1,0 +1,49 @@
+#include "caja.h"
+//Johan Arath Gonzalez Rios//
+//Objeto 1//
+class CajaBotellas :
+public Caja
+{
+public:
+int nro=1;
+double l, double an, double al, int nro=1;
+double volumen;
+int nrobotellas;
+
+cout>>"Dame una botella";
+cin>>nro;
+
+};
+
+//objeto 2//
+int angf;
+int radio;
+public:
+rebanada int X, int Y, Int angi, int ang f, int radio;
+Rellena int patron, int color;
+Dibuja();
+};
+
+void main(void)
+{
+rebanada (10, 10, 0, 90, 50);
+rebanada (10,10, 90, 180,50);
+rebanada*ap_Rebanada;
+}
+
+//objeto 3//
+
+#include
+int cuadrado int i { return i*i; }
+float cuadrado float d { return d*d; }
+long cuadrado long l { return l*l; }
+void main(void)
+{ int x;
+long y;
+float z;
+x = cuadrado(5);
+y = cuadrado(50000);
+z = cuadrado(3.1416);
+}
+
+

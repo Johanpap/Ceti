@@ -121,7 +121,8 @@ void Date::setDate(string fecha)
 		string fecha;
 		cout << "\n \t Tecla R (Reiniciar)" << endl;
 		cout << " \t Tecla S (Salir)\n\n" << endl;
-		cout << "\n  Ingresa fecha" << endl;
+		cout << "\n \t dd-mm-yyyy" << endl;
+		cout << "\n  Ingresa tu fecha de nacimiento:" << endl;
 		cin >> fecha;
 		Date P1 = Date();
 		P1.setDate(fecha);
